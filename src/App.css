@@ -33,12 +33,21 @@ body {
   opacity: 0.8;
 }
 
-#home-section .home-section__icon {
+#home-section .home-section__icon  svg{
   color: #008ed6;
   background: #fff;
   padding: 5px;
   border-radius: 5px;
-  /* font-size: 15px; */
-  /* width: 10px; */
-  /* height: 10px; */
+  font-size: 40px;
+  /* width: 10px;
+  height: 10px; */
+}
+
+#explore-section .explore-icon svg{
+  background: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 40px;
+  display: inline-block;
 }
