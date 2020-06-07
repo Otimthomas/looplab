@@ -33,7 +33,9 @@ body {
   opacity: 0.8;
 }
 
-#home-section .home-section__icon  svg{
+#home-section .home-section__icon  svg, 
+#create-section .create-icon svg
+{
   color: #008ed6;
   background: #fff;
   padding: 5px;
