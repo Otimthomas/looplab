@@ -45,7 +45,9 @@ body {
   height: 10px; */
 }
 
-#explore-section .explore-icon svg{
+#explore-section .explore-icon svg,
+#share-section .share-icon svg
+{
   background: #333;
   color: #fff;
   padding: 5px;
