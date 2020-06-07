@@ -5,6 +5,8 @@ import Home from "./components/Home";
 import Explore from './components/Explore';
 import Create from './components/Create';
 import Share from "./components/Share";
+import Footer from './components/Footer';
+import ContactModal from "./components/ContactModal";
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
       <Explore />
       <Create />
       <Share />
+      <Footer />
+      <ContactModal />
     </>
   );
 }
